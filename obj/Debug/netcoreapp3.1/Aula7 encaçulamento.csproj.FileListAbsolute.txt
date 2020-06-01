@@ -1,0 +1,13 @@
+C:\Users\NdL\Desktop\Aula7 encaçulamento\obj\Debug\netcoreapp3.1\Aula7 encaçulamento.csprojAssemblyReference.cache
+C:\Users\NdL\Desktop\Aula7 encaçulamento\obj\Debug\netcoreapp3.1\Aula7 encaçulamento.AssemblyInfoInputs.cache
+C:\Users\NdL\Desktop\Aula7 encaçulamento\obj\Debug\netcoreapp3.1\Aula7 encaçulamento.AssemblyInfo.cs
+C:\Users\NdL\Desktop\Aula7 encaçulamento\obj\Debug\netcoreapp3.1\Aula7 encaçulamento.csproj.CoreCompileInputs.cache
+C:\Users\NdL\Desktop\Aula7 encaçulamento\bin\Debug\netcoreapp3.1\Aula7 encaçulamento.exe
+C:\Users\NdL\Desktop\Aula7 encaçulamento\bin\Debug\netcoreapp3.1\Aula7 encaçulamento.deps.json
+C:\Users\NdL\Desktop\Aula7 encaçulamento\bin\Debug\netcoreapp3.1\Aula7 encaçulamento.runtimeconfig.json
+C:\Users\NdL\Desktop\Aula7 encaçulamento\bin\Debug\netcoreapp3.1\Aula7 encaçulamento.runtimeconfig.dev.json
+C:\Users\NdL\Desktop\Aula7 encaçulamento\bin\Debug\netcoreapp3.1\Aula7 encaçulamento.dll
+C:\Users\NdL\Desktop\Aula7 encaçulamento\bin\Debug\netcoreapp3.1\Aula7 encaçulamento.pdb
+C:\Users\NdL\Desktop\Aula7 encaçulamento\obj\Debug\netcoreapp3.1\Aula7 encaçulamento.dll
+C:\Users\NdL\Desktop\Aula7 encaçulamento\obj\Debug\netcoreapp3.1\Aula7 encaçulamento.pdb
+C:\Users\NdL\Desktop\Aula7 encaçulamento\obj\Debug\netcoreapp3.1\Aula7 encaçulamento.genruntimeconfig.cache
